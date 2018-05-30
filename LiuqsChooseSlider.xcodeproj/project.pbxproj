@@ -15,6 +15,7 @@
 		735209AD201EC4210013A0CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 735209AC201EC4210013A0CD /* main.m */; };
 		735209B7201EC4210013A0CD /* LiuqsChooseSliderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 735209B6201EC4210013A0CD /* LiuqsChooseSliderTests.m */; };
 		735209C2201EC4210013A0CD /* LiuqsChooseSliderUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 735209C1201EC4210013A0CD /* LiuqsChooseSliderUITests.m */; };
+		735209D1201EC4380013A0CD /* LiuqsChooseSliderView.m in Sources */ = {isa = PBXBuildFile; fileRef = 735209D0201EC4380013A0CD /* LiuqsChooseSliderView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		735209BD201EC4210013A0CD /* LiuqsChooseSliderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LiuqsChooseSliderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		735209C1201EC4210013A0CD /* LiuqsChooseSliderUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LiuqsChooseSliderUITests.m; sourceTree = "<group>"; };
 		735209C3201EC4210013A0CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		735209CF201EC4380013A0CD /* LiuqsChooseSliderView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LiuqsChooseSliderView.h; sourceTree = "<group>"; };
+		735209D0201EC4380013A0CD /* LiuqsChooseSliderView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LiuqsChooseSliderView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				7352099E201EC4210013A0CD /* AppDelegate.m */,
 				735209A0201EC4210013A0CD /* ViewController.h */,
 				735209A1201EC4210013A0CD /* ViewController.m */,
+				735209CF201EC4380013A0CD /* LiuqsChooseSliderView.h */,
+				735209D0201EC4380013A0CD /* LiuqsChooseSliderView.m */,
 				735209A3201EC4210013A0CD /* Main.storyboard */,
 				735209A6201EC4210013A0CD /* Assets.xcassets */,
 				735209A8201EC4210013A0CD /* LaunchScreen.storyboard */,
@@ -268,6 +273,7 @@
 				735209A2201EC4210013A0CD /* ViewController.m in Sources */,
 				735209AD201EC4210013A0CD /* main.m in Sources */,
 				7352099F201EC4210013A0CD /* AppDelegate.m in Sources */,
+				735209D1201EC4380013A0CD /* LiuqsChooseSliderView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
